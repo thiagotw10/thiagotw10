@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img  width="100%" src="https://tw10.vercel.app/assets/css/images/tw10.png">
-Thiago Oliveira Desenvolvedor full stack 
+<h1>Thiago Oliveira Desenvolvedor full stack</h1>
 <div align="center">
   <a href="https://github.com/thiagotw10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagotw10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
