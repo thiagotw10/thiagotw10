@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <img align="center" alt="tw10-firebase" height="50" width="80" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg">
   <br><hr>
   
-    <img align="center" alt="tw10-mongo" height="50" width="80" src="https://www.svgrepo.com/show/373845/mongo.svg">
+  <img align="center" alt="tw10-mongo" height="50" width="80" src="https://www.svgrepo.com/show/373845/mongo.svg">
   <img align="center" alt="tw10-mysql" height="50" width="80" src="https://www.svgrepo.com/show/354099/mysql.svg">
   <img align="center" alt="tw10-pgsql" height="50" width="80" src="https://www.svgrepo.com/show/373965/pgsql.svg">
   	
