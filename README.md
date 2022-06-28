@@ -38,7 +38,8 @@ Here are some ideas to get you started:
   <img align="center" alt="tw10-mongo" height="50" width="80" src="https://www.svgrepo.com/show/373845/mongo.svg">
   <img align="center" alt="tw10-mysql" height="50" width="80" src="https://www.svgrepo.com/show/354099/mysql.svg">
   <img align="center" alt="tw10-pgsql" height="50" width="80" src="https://www.svgrepo.com/show/373965/pgsql.svg">
-  	
+  <br><hr>
+  <img align="center" alt="tw10-pgsql" height="50" width="80" src="https://www.svgrepo.com/show/354926/docker.svg">
   <!--<img align="center" alt="tw10-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="tw10-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="tw10-pic" height="150" style="border-radius:50px;" --src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
