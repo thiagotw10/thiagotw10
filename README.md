@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img  width="100%" src="https://tw10.vercel.app/assets/css/images/tw10.png">
+<!-- <img  width="100%" src="https://tw10.vercel.app/assets/css/images/tw10.png"> -->
 <h1>Thiago Oliveira Desenvolvedor full stack</h1>
 <div align="center">
   <a href="https://github.com/thiagotw10">
