@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <img align="center" alt="tw10-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="tw10-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="tw10-php" height="50" width="80" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img align="center" alt="tw10-laravel" height="50" width="80" src="https://www.svgrepo.com/show/353985/laravel.svg">
   <img align="center" alt="tw10-node" height="50" width="80" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="tw10-firebase" height="50" width="80" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg">
   	
