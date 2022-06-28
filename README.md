@@ -33,6 +33,11 @@ Here are some ideas to get you started:
   <img align="center" alt="tw10-laravel" height="50" width="80" src="https://www.svgrepo.com/show/353985/laravel.svg">
   <img align="center" alt="tw10-node" height="50" width="80" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="tw10-firebase" height="50" width="80" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg">
+  <br><hr>
+  
+    <img align="center" alt="tw10-mongo" height="50" width="80" src="https://www.svgrepo.com/show/373845/mongo.svg">
+  <img align="center" alt="tw10-mysql" height="50" width="80" src="https://www.svgrepo.com/show/354099/mysql.svg">
+  <img align="center" alt="tw10-pgsql" height="50" width="80" src="https://www.svgrepo.com/show/373965/pgsql.svg">
   	
   <!--<img align="center" alt="tw10-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="tw10-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
